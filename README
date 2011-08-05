@@ -1,0 +1,7 @@
+ICANN's project to ensure Universal Acceptance of All Top-Level Domains 
+has released TLD Verification Code for a number of programming 
+languages, except PHP. This repository contains a PHP implementation 
+(based on the Perl implementation) and test scripts.
+
+Copyright 2011 CentralNic Ltd. Please see TLDVerify.php for a full 
+license.
